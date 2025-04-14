@@ -33,7 +33,7 @@
 
 ### 🌟 Projects
 
-#### 🎶 [Music Composer Using Deep Learning](https://github.com/Bucky51/music-composer-ai)
+#### 🎶 [Music Composer Using Deep Learning]
 > *LSTM-based neural network that composes original music from MIDI files*  
 - Frameworks: `TensorFlow`, `music21`, `NumPy`, `pretty_midi`  
 - Outputs MIDI compositions based on trained musical patterns  
