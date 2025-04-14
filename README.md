@@ -1,27 +1,103 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Sarfraz Sindagi</h1>
-<h3 align="center">A passionate Software developer,Cyber-Security Consultant and a Full Stack Developer from India</h3>
-<img align="center" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h3 align="center">Software Developer • Cybersecurity Consultant • Full Stack Dev • AI Enthusiast from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bucky51&label=Profile%20views&color=0e75b6&style=flat" alt="bucky51" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bucky51" alt="bucky51" /></a> </p>
-
-- 📫 How to reach me **sarfrazsindagi151@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sarfraz-sindagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarfraz-sindagi" height="30" width="40" /></a>
-<a href="https://instagram.com/sarfraz._.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarfraz._.official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarfrazsindagi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarfrazsindagi11" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bucky51&show_icons=true&locale=en&layout=compact" alt="bucky51" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bucky51&show_icons=true&locale=en" alt="bucky51" /></p>
+🎓 Final year **Computer Science Engineering student** (AI & ML specialization)  
+🔐 Cybersecurity Consultant with hands-on knowledge of network and system security  
+🧠 Passionate about **Deep Learning, AI, and creative tech applications** like music generation  
+🌐 Full Stack Web Developer with professional internship experience  
+💡 Always open to collaborating on impactful, open-source projects  
+📫 Reach me at: **sarfrazsindagi151@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bucky51&" alt="bucky51" /></p>
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Python, C++, Java, JavaScript, PHP  
+- **Web Dev:** HTML, CSS, JS, Bootstrap, Node.js, Angular  
+- **Backend:** SQL, DBMS, Flask, FastAPI  
+- **AI/ML:** TensorFlow, Keras, OpenCV, music21, Transfer Learning  
+- **Dev Tools:** Git, Linux, Jupyter, Google Colab, AWS, GCP  
+- **Cybersecurity:** System hardening, ethical hacking, network protocols
+
+---
+
+### 🌟 Projects
+
+#### 🎶 [Music Composer Using Deep Learning](https://github.com/Bucky51/music-composer-ai)
+> *LSTM-based neural network that composes original music from MIDI files*  
+- Frameworks: `TensorFlow`, `music21`, `NumPy`, `pretty_midi`  
+- Outputs MIDI compositions based on trained musical patterns  
+- Features oversampling, sequence training, and temperature sampling
+
+#### 🧠 Face Mask Detection (Real-Time)
+> *CNN-based face mask classifier with deployable web and mobile endpoints*  
+- Tech Stack: `TensorFlow`, `Keras`, `OpenCV`, `Flask`, `FastAPI`, `AWS`, `GCP`  
+- Includes real-time detection and mobile compatibility using TensorFlow Lite
+
+#### 🕸 Instagram Web Scraper
+> *Python-based scraper for public post metadata (used for analytics)*  
+- Tools: `requests`, `Pillow`  
+- Capable of bypassing dynamic content blockers and handling content throttling
+
+---
+
+### 💼 Experience
+
+**Full Stack Developer Intern – TekkyBench**  
+*Oct 2023 – Nov 2023*  
+- Developed scalable web apps and platforms like INTACH  
+- Managed client relations and secured project referrals through delivery excellence
+
+---
+
+### 📚 Education
+
+**B.E. in Computer Science (AI & ML)**  
+B.L.D.E.A’s V.P. Dr. P.G. Halakatti College of Engineering and Technology  
+📍 Vijayapur – *Expected May 2025*  
+CGPA: 8.0  
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/sarfraz-sindagi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/sarfraz._.official" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/sarfrazsindagi11" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bucky51&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bucky51&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bucky51&" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📄 License
+
+This profile and the projects listed are open source under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
