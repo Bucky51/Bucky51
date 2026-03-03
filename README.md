@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Sarfraz Sindagi</h1>
-<h3 align="center">Software Developer • Cybersecurity Consultant • Full Stack Dev • AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Python Developer • Data Analyst • AI/ML Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
@@ -9,96 +9,105 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-🎓 Final year **Computer Science Engineering student** (AI & ML specialization)  
-🔐 Cybersecurity Consultant with hands-on knowledge of network and system security  
-🧠 Passionate about **Deep Learning, AI, and creative tech applications** like music generation  
-🌐 Full Stack Web Developer with professional internship experience  
-💡 Always open to collaborating on impactful, open-source projects  
-📫 Reach me at: **sarfrazsindagi151@gmail.com**  
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, C++, Java, JavaScript, PHP  
-- **Web Dev:** HTML, CSS, JS, Bootstrap, Node.js, Angular  
-- **Backend:** SQL, DBMS, Flask, FastAPI  
-- **AI/ML:** TensorFlow, Keras, OpenCV, music21, Transfer Learning  
-- **Dev Tools:** Git, Linux, Jupyter, Google Colab, AWS, GCP  
-- **Cybersecurity:** System hardening, ethical hacking, network protocols
+🎓 Computer Science Engineering graduate specializing in **Artificial Intelligence & Machine Learning**  
+💻 Passionate about **Python development, data analysis, and machine learning applications**  
+📊 Experienced in working with **real-world datasets, data cleaning, and exploratory data analysis**  
+🧠 Interested in building **AI-powered systems and intelligent data-driven applications**  
+🌱 Currently improving my skills in **Python, SQL, Machine Learning, and Data Engineering**  
+📫 Reach me at: **sarfrazsindagi151@gmail.com**
 
 ---
 
-### 🌟 Projects
+## 🛠 Tech Stack
 
-#### 🎶 [Music Composer Using Deep Learning]
-> *LSTM-based neural network that composes original music from MIDI files*  
-- Frameworks: `TensorFlow`, `music21`, `NumPy`, `pretty_midi`  
-- Outputs MIDI compositions based on trained musical patterns  
-- Features oversampling, sequence training, and temperature sampling
+### Programming
+- Python
+- Java (Basic)
 
-#### 🧠 Face Mask Detection (Real-Time)
-> *CNN-based face mask classifier with deployable web and mobile endpoints*  
-- Tech Stack: `TensorFlow`, `Keras`, `OpenCV`, `Flask`, `FastAPI`, `AWS`, `GCP`  
-- Includes real-time detection and mobile compatibility using TensorFlow Lite
+### Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
-#### 🕸 Instagram Web Scraper
-> *Python-based scraper for public post metadata (used for analytics)*  
-- Tools: `requests`, `Pillow`  
-- Capable of bypassing dynamic content blockers and handling content throttling
+### Databases
+- SQL
+- MySQL
 
----
+### Data Visualization
+- Power BI
+- Excel
 
-### 💼 Experience
+### Tools & Platforms
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
 
-**Full Stack Developer Intern – TekkyBench**  
-*Oct 2023 – Nov 2023*  
-- Developed scalable web apps and platforms like INTACH  
-- Managed client relations and secured project referrals through delivery excellence
-
----
-
-### 📚 Education
-
-**B.E. in Computer Science (AI & ML)**  
-B.L.D.E.A’s V.P. Dr. P.G. Halakatti College of Engineering and Technology  
-📍 Vijayapur – *Expected May 2025*  
-CGPA: 8.0  
+### AI / Machine Learning
+- Scikit-learn
+- OpenCV
+- Model Evaluation
+- Dataset Preprocessing
 
 ---
 
-### 🌐 Let's Connect
+## 🌟 Projects
+
+### 📊 Service Data Root Cause Tagging System
+- Processed and cleaned service datasets using **Python, Pandas, and Excel**
+- Implemented rule-based text classification to categorize complaint descriptions
+- Applied preprocessing techniques like **text normalization and pattern matching**
+- Generated structured datasets enabling **trend analysis and issue identification**
+
+---
+
+### 🤖 AI Vision & Voice Recommendation System
+- Built a recommendation workflow using **Python and Pandas**
+- Implemented filtering logic to retrieve product suggestions from datasets
+- Designed scalable dataset structures for efficient retrieval
+- Integrated **OpenCV-based visual input processing**
+
+---
+
+### 🧠 Real-Time Multilingual Sign Language Translator
+- Developed machine learning models for recognizing sign language gestures
+- Prepared and labeled datasets for training and evaluation
+- Implemented real-time gesture detection using **computer vision**
+- Achieved **95% accuracy on static gestures and 91% on dynamic gestures**
+
+---
+
+### 😷 Face Mask Detection
+- Built an image classification model for detecting face masks
+- Prepared and cleaned datasets for training and evaluation
+- Deployed the model using a **Flask API**
+- Achieved inference latency **under 100 ms**
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bucky51&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bucky51&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/sarfrazsindagi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sarfraz._.official" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
   <a href="https://www.hackerrank.com/sarfrazsindagi11" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
   </a>
 </p>
 
-
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bucky51&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bucky51&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bucky51&" alt="GitHub Streak" />
-</p>
-
----
-
-### 📄 License
-
-This profile and the projects listed are open source under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
+⭐ From [bucky51](https://github.com/bucky51)
